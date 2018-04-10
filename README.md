@@ -1,4 +1,5 @@
 # CryptoTicker
+Check out my [blog post](https://medium.com/@HallyouGot/cryptocurrency-led-ticker-af0e27f35149) on this project: 
 
 Here is all the code needed to run a Cryptocurrency ticker tape on a LED board using a raspberry pi.  This assumes following the tutorial on hzeller's github project regarding setting up the LED's found [here](https://github.com/hzeller/rpi-rgb-led-matrix).  
 
